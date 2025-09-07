@@ -2,15 +2,15 @@
 # Sebastião Brayan 
 
 ## 🔹 Sobre mim
-Olá, me chamo Sebastião Brayan, estou cursando Análise e Desenvolvimento de Sistemas e nas horas vagas sou desenhista. Busco me aprimorar na área da programação web com foco em Back-end, mas pretendo ser futuramente FullStack. Sempre fui apaixonado pelo conhecimento e tento a cada dia refinar mais minhas habilidades.
+Hello, my name is Sebastião Brayan. I'm currently studying Systems Analysis and Development, and in my free time, I work as a drawing artist. I'm seeking to improve my skills in web development with a focus on back-end, but I plan to become a Full Stack developer in the future. I've always been passionate about learning and strive every day to refine my skills.
 
-## 🔗 Conecte-se comigo
+## 🔗 Connect with me
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SBrayanAlves/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A3o-brayan-8a670b360/) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SBrayanAlves/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SBrayanAlves)
 
 
-## Habilidades em Desenvolvimento
+## Skills in development 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
