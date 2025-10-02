@@ -21,4 +21,6 @@ Hello, my name is Sebastião Brayan. I'm currently studying Systems Analysis and
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBrayanAlves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBrayanAlves&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBrayanAlves&layout=compact&theme=tokyonight)
